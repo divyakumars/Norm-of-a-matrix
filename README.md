@@ -54,12 +54,8 @@ print(norm_of_matrix)
 ## Output:
 ### 1-Norm of a Matrix
 ![image](https://github.com/divyakumars/Norm-of-a-matrix/assets/119393621/8020d8d4-3e02-4d58-a99e-640922d30ec5)
-
-
 ### 2-Norm of a Matrix
 ![image](https://github.com/divyakumars/Norm-of-a-matrix/assets/119393621/67bcca90-2707-47fb-9023-32d5d85e6508)
-
-
 ### Infinity Norm of a Matrix
 ![image](https://github.com/divyakumars/Norm-of-a-matrix/assets/119393621/2c0eba8f-56d8-4d5a-aa16-7fcc68e928a2)
 
